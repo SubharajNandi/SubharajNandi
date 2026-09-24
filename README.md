@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="1676256284129" src="https://github.com/user-attachments/assets/1502e012-87a1-4e87-9159-1d5f8427646e" />
+
 # ***Hey Buddy, Subharaj this side...***
 
 ### **Em a student of Artificial Intelligence and Machine Learning whose immensely enthusiast of Tech and modern day Innovations along with interest in bit of boring stuffs like History, Politics and World Affairs.**
