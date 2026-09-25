@@ -1,10 +1,13 @@
-<img width="1920" height="1080" alt="1676256284129" src="https://github.com/user-attachments/assets/1502e012-87a1-4e87-9159-1d5f8427646e" />
+<img width="1920" height="500" alt="1676256284129" src="https://github.com/user-attachments/assets/1502e012-87a1-4e87-9159-1d5f8427646e" />
 
 # ***Hey Buddy, Subharaj this side...***
 
+<img width="400" height="400" alt="ChatGPT Image Sep 25, 2026, 05_47_45 AM" src="https://github.com/user-attachments/assets/50967260-a73c-4f31-9361-535b7309e831" />
+
+
 ### **Em a student of Artificial Intelligence and Machine Learning whose immensely enthusiast of Tech and modern day Innovations along with interest in bit of boring stuffs like History, Politics and World Affairs.**
 
-## 👨‍💻 About Me
+## 👨‍💻 ***About Me***
 
 - 🎓 B.Tech CSE (AI/ML) student
 - 🤖 Interested in Software Development & Explorational Cyber Security
@@ -14,7 +17,7 @@
 - 🚀 Interested in building practical, real-world projects
 - 📚 Continuously learning and improving
 
-## My TechStack
+## ***My TechStack***
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -30,7 +33,13 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-## 🤝 Connect With Me
+## ***Current Code of Conduct***
+
+### **Currently I'm focusing on building in-demand skills and mastering tech stack for my growth and working on Projects of both Internships and Self-Paced such as BazaarAll - An Ecommerce Website, InkShpere - Blogging Platform and BlackHole - Bluetooth Chatting App are among those.**
+
+<img width="735" height="490" alt="Обои на пк(мем😋) Котик_3" src="https://github.com/user-attachments/assets/033f9976-e942-4450-852a-e93f91e952cc" />
+
+## 🤝 ***Connect With Me***
 
 - 💼 LinkedIn: https://www.linkedin.com/in/subharaj-nandi/
 - 📧 Email: subharajnandi2005@gmail.com
