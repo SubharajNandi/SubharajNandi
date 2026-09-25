@@ -41,6 +41,17 @@
 
 ## 🤝 ***Connect With Me***
 
-- 💼 LinkedIn: https://www.linkedin.com/in/subharaj-nandi/
-- 📧 Email: subharajnandi2005@gmail.com
-- 🌐 Portfolio: https://subharaj-nandi-personal-portfolio.vercel.app/
+<p align="center">
+  <a href="https://github.com/SubharajNandi">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <a href="https://www.linkedin.com/in/subharaj-nandi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="mailto:subharajnandi2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://subharaj-nandi-personal-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
